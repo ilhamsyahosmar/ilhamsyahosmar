@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Theme Name: DevFolio
+Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+Author: BootstrapMade.com
+Author URL: https://bootstrapmade.com
